@@ -1,9 +1,9 @@
 # JS-Discord-Bot
 An Open Source version of Cryptonix X and a basic frame for any discord.js bot. Integrates MongoDB as a solution for database!
-[Support Server](https://discord.gg/sjtcnRb)
+[Support Server](https://discord.gg/G8xpUbjSFH)
 ## Updated for Discord.js V12 *woohoo*
 
-Made by **HarutoHiroki#4000**
+Made by **friktiny#4340**
 
 ## Requirements
 - Node.js Recommended 12.16.0 and up - https://nodejs.org/en/download/
@@ -27,7 +27,7 @@ Made by **HarutoHiroki#4000**
 `UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token | in JSON at position 69420` - well to solve this compare the json file you're trying to upload to the [example.json](https://github.com/HarutoHiroki/Discord.js-Bot/blob/master/temp/example.json) file included in the code and see whats wrong there.
 
 ## (OPTIONAL) Keeping your bot online on a virtual private server
-Want to start hosting your own bot? Well I have one recommended tool for youuuuuuuuuu :D
+Want to start hosting your own bot? Well I have one recommended tool for you
 
 As mentioned in optional tools, PM2 is a useful tool that can help you keep your bot online and restart it whenever it crashes. To install it do
 `npm i pm2` to install it for the repo only or do `npm i pm2 -g` to install it globally (need admin/sudo perms)
