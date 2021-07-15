@@ -1,6 +1,9 @@
 # JS-Discord-Bot
 An Open Source version of Cryptonix X and a basic frame for any discord.js bot. Integrates MongoDB as a solution for database!
 [Support Server](https://discord.gg/G8xpUbjSFH)
+
+<a href="https://discord.gg/G8xpUbjSFH"><img src="http://invidget.switchblade.xyz/G8xpUbjSFH"/></a>
+
 ## Updated for Discord.js V12 *woohoo*
 
 Made by **friktiny#4340**
@@ -24,7 +27,7 @@ Made by **friktiny#4340**
 7. Enjoy!
 
 ## Common "Errors"
-`UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token | in JSON at position 69420` - well to solve this compare the json file you're trying to upload to the [example.json](https://github.com/HarutoHiroki/Discord.js-Bot/blob/master/temp/example.json) file included in the code and see whats wrong there.
+`UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token | in JSON at position 69420` - well to solve this compare the json file you're trying to upload to the [example.json](https://github.com/friktiny/discord-bots/blob/master/temp/example.json) file included in the code and see whats wrong there.
 
 ## (OPTIONAL) Keeping your bot online on a virtual private server
 Want to start hosting your own bot? Well I have one recommended tool for you
